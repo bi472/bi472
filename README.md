@@ -14,10 +14,6 @@ A ⌘ Tab-style tab switcher for Safari on macOS: tabs in most-recently-used ord
 
 <a href="https://github.com/fnder7/last-tab-safari"><img src="https://github.com/fnder7/last-tab-safari/raw/main/assets/demo.gif" alt="Last Tab for Safari demo" width="600"></a>
 
-#### [remote-touchpad](https://github.com/fnder7/remote-touchpad)
-
-My fork of [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) (Go): use your phone as a touchpad for your computer. Adds an installable PWA that connects automatically from the iOS Home Screen, host system controls, automatic keyboard-layout switching on KDE, and mouse sensitivity fixes.
-
 ---
 
 ### 📫 Contact
